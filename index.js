@@ -18,6 +18,6 @@ function greet(timeString){
   if (timeString > 17) {
     return "Good Evening"
   }
-  
+
 }
 /* Write your implementation of displayMessage() */
