@@ -21,3 +21,6 @@ function greet(timeString){
 
 }
 /* Write your implementation of displayMessage() */
+displayMessage(greeting1){
+  alert(greeting1);
+}
